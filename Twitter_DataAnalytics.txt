@@ -1,0 +1,8 @@
+---------Start of Twitter  Data Analytics------------
+Total Amount of Data collected:11506
+Amount of geo-tagged data:4805
+Amount of geo-tagged data from Glasgow:43
+Amount of Redundant Data:4
+Amount of Retweets:7302
+Amount of Quotes:1979
+---------End of Twitter Data Analytics------------
