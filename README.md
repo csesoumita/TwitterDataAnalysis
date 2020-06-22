@@ -5,7 +5,7 @@
 -Calculated and visualized the amount of geo-tagged data from
 Glasgow location  amount of redundant tweets, amount retweets
 and quotes.
- <p><i>
+</i> <p>
 <b> Software Specification: </b>
 It is developed with the help of the following:-</br>
 1. Programming Language- Python Version 3.6.5</br>
