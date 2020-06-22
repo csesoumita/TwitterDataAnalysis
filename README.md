@@ -7,4 +7,5 @@ Google Plus and then produced data analysis on the acquired data.
 Glasgow location , amount of redundant tweets, amount retweets
 and quotes.
 -Files Description:
-1) 
+1) StreamingAPI.py-Program for Crawling Twitter Data using Streaming API start(based of certain users and keywords)
+2)
