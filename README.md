@@ -1,4 +1,4 @@
-<h1>TwitterDataAnalysis</h1>
+<h1>Twitter Data Crawling & Analysis</h1>
 <p><i>Developed a project for performing web crawling from Twitter and then produced data analysis on the acquired data.</br>
 -Crawled Twitter data using Streaming REST API via tweepy library.</br>
 -Also fetched geo-tagged data. Performed keyword based data crawling.</br>
@@ -10,7 +10,7 @@ and quotes.
 It is developed with the help of the following:-</br>
 1. Programming Language- Python Version 3.6.5</br>
 2. Database – Mongo DB Version 4.0</br>
-3. IDE- JetBrains PyCharm Community Edition 2017.2.3 x64 </br>
+3. IDE- JetBrains PyCharm Community Edition 2017.2.3 x64 
   <table> 
   <tr>
     <td> <b>File Names</b></td>
