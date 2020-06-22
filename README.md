@@ -1,12 +1,16 @@
 <h1>TwitterDataAnalysis</h1>
-<p><i>Developed a software for performing web crawling from Twitter and
-  Google Plus and then produced data analysis on the acquired data.</br>
+<p><i>Developed a project for performing web crawling from Twitter and then produced data analysis on the acquired data.</br>
 -Crawled Twitter data using Streaming REST API via tweepy library.</br>
--Also fetched geo-tagged data. Performed keyword based data crawling.
+-Also fetched geo-tagged data. Performed keyword based data crawling.</br>
 -Calculated and visualized the amount of geo-tagged data from
 Glasgow location  amount of redundant tweets, amount retweets
 and quotes.
  <p><i></br>
+<b> Software Specification: </b>
+It is developed with the help of the following:-</br>
+1. Programming Language- Python Version 3.6.5</br>
+2. Database – Mongo DB Version 4.0</br>
+3. IDE- JetBrains PyCharm Community Edition 2017.2.3 x64 </br>
   <table> 
   <tr>
     <td> <b>File Names</b></td>
